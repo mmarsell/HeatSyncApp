@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37145635-6D2C-4254-8094-2F9B2AE540B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempControl2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - 53bdeff0c247a8cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.pelTempSlider.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - 88c15ed1683618d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.pelTempSlider.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - 13fcf435ea6e94ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.pelTempSlider.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - 4d664ae4da89ec2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.pelTempSlider.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - 23e02db11add6ea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TempControl2.ViewController"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "7FF9D40C-A48E-415D-ACF7-909A8A7C3859 - fcd4f7818456d28a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempControl2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TempControl2.ViewController&gt;"
+                  moduleName = "TempControl2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelmarsella/Documents/TempControl/TempControl2/TempControl2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "817">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
