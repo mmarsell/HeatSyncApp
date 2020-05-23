@@ -5,7 +5,7 @@ In order to edit and test the code you must be using XCode, which you can downlo
 
 When you want to open the project just navigate to the HeatSync.xcodeproj file and open that in xcode
 
-I was following a guide here (for bluetooth functionality) if you want to follow along: https://www.frecodecamp.org/news/ultimate-how-to-bluetooth-swift-with-hardware-in-20-minutes/
+I was following a guide here (for bluetooth functionality) if you want to follow along: https://www.freecodecamp.org/news/ultimate-how-to-bluetooth-swift-with-hardware-in-20-minutes/
 
 There are several important files you should look at:
 
